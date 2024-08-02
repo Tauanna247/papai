@@ -1,0 +1,13 @@
+body {
+    background-color: #0077ffa1; /*Pode escolher outra cor se quiser*/
+  }
+  
+  h1 {
+    color: #000000; /*Pode escolher outra cor se quiser*/
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
